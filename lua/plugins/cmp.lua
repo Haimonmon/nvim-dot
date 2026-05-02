@@ -47,6 +47,5 @@ return {
         { name = 'path' },
       }),
     })
-    vim.notify("cmp setup done!")
   end
 }
