@@ -13,15 +13,16 @@ I want to have an IDE that is customizable and a CLI-based IDE so i can practice
 
 
 ## Plugins
-* Harpoon [ primeagen ]
-* Language Server Protocol ( LSP )
-* Comletion Menu PLugin ( CMP )
-* Treesitter
-* Neotree
-* Color Scheme
-* Telescope
-* Lualine 
-* Dashboard Vim 
+* [Harpoon](https://github.com/ThePrimeagen/harpoon/tree/harpoon2)
+* [Language Server Protocol](https://github.com/neovim/nvim-lspconfig) 
+* [Comletion Menu PLugin](https://github.com/hrsh7th/nvim-cmp)
+* [Treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
+* [Neotree](https://github.com/nvim-neo-tree/neo-tree.nvim/tree/v3.x)
+* [Color Scheme]()
+* [Telescope](https://github.com/nvim-telescope/telescope.nvim)
+* [Lualine](https://github.com/nvim-lualine/lualine.nvim) 
+* [Dashboard Vim](https://github.com/nvimdev/dashboard-nvim) 
+
 
 ##
 `Haimonmon`
