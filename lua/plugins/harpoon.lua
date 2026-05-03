@@ -18,7 +18,6 @@ return {
       for _, item in ipairs(harpoon:list().items) do
         table.insert(file_paths, item.value)
       end
-
       require("telescope.pickers").new(themes.get_ivy({ prompt_title = "Working List" }), {
         finder = require("telescope.finders").new_table({ results = file_paths }),
         previewer = conf.file_previewer({}),
