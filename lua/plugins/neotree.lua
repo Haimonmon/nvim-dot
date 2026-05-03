@@ -15,6 +15,17 @@ return {
         { desc = 'Neotree panel positions to the left' })
       vim.keymap.set('n', '<C-t>', ':Neotree toggle<CR>', { desc = 'Closes or Opens Neotree' })
       vim.keymap.set('n', '<C-f>', ':Neotree focus<CR>', { desc = 'Focusing on Neotree' })
+
+      local neotree = require('neo-tree')
+
+      local configs = {
+        window = {
+          position = 'right',
+          width = '30%'
+        }
+      }
+
+      neotree.setup(configs)
     end
   }
 }
