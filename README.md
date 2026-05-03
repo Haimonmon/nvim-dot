@@ -9,7 +9,8 @@ Currently, the following codes were not created by me, I followed a tutorial for
 
 ##
 
-I want to have an IDE that is customizable and a CLI-based IDE so i can practice my typing so that's why I chose Neovim. In addition, I want to remember the syntax as much as possible for each programming language that I will learn. Neovim is also available anywhere, which is why I like it.
+I want to have an IDE that is customizable and a CLI-based IDE so i can practice my typing so that's why I chose Neovim. In addition, I want to remember the syntax as much as possible for each programming language that I will learn. Neovim is also available anywhere, which is why I like it, i also use Lazy vim for plugin managing.
+
 
 ## Plugins
 * Harpoon [ primeagen ]
@@ -19,7 +20,8 @@ I want to have an IDE that is customizable and a CLI-based IDE so i can practice
 * Neotree
 * Color Scheme
 * Telescope
-* Lazy NVIM
+* Lualine 
+* Dashboard Vim 
 
 ##
 `Haimonmon`
